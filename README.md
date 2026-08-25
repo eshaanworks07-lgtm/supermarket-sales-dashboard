@@ -14,10 +14,13 @@ Excel — Power Query, PivotTables, Slicers, SUMIFS, AVERAGEIFS and Conditional 
 
 Key Insights
 
-Food and Beverages had the highest sales at 56,144.84, followed by Sports and Travel at 55,122.83. The other product lines were also fairly close, ranging from about 49K to 55K. The profit margin is the same across all product lines at around 4.76%, so there isn't a big difference in margin between the categories.
-Sales dropped from 116,291.87 in January to 97,219.37 in February, a decrease of about 16%. Sales then went back up to 109,455.51 in March. Since the data only covers 3 months, it's difficult to say whether this is a real seasonal trend or just normal variation.
-Payment methods are a little different across the cities. Naypyitaw has the highest share of Cash payments at around 39%, while Yangon has the highest use of E-wallets at around 37%. Credit card usage is lowest in Naypyitaw at around 27%.
-Members spend slightly more per order on average than Normal customers — 327.79 compared to 318.12, which is about a 3% difference. This suggests the Member program may be helping, but the difference isn't large enough by itself to say that the program is definitely worth the cost.
+Key Insights
+
+1. Food and Beverages had the highest sales at 56,144.84, followed by Sports and Travel at 55,122.83. The other product lines were also fairly close, ranging from about 49K to 55K.
+2. Profit margin was around 4.76% across all product lines, so there wasn't a major difference in margin between categories.
+3.  Sales dropped from 116,291.87 in January to 97,219.37 in February, a decrease of about 16%, before recovering to 109,455.51 in March.
+4. Payment methods varied between cities. Naypyitaw had the highest share of Cash payments at around 39%, while Yangon had the highest E-wallet usage at around 37%.
+5. Members spent slightly more per order on average than Normal customers — 327.79 compared to 318.12, around a 3% difference.
 
 Recommendation
 
