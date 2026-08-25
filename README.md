@@ -14,8 +14,6 @@ Excel — Power Query, PivotTables, Slicers, SUMIFS, AVERAGEIFS and Conditional 
 
 Key Insights
 
-Key Insights
-
 1. Food and Beverages had the highest sales at 56,144.84, followed by Sports and Travel at 55,122.83. The other product lines were also fairly close, ranging from about 49K to 55K.
 2. Profit margin was around 4.76% across all product lines, so there wasn't a major difference in margin between categories.
 3.  Sales dropped from 116,291.87 in January to 97,219.37 in February, a decrease of about 16%, before recovering to 109,455.51 in March.
@@ -30,7 +28,9 @@ The February drop in sales and the differences in payment methods between cities
 
 Members do spend a little more per order, but the difference is only around 3%. I'd compare this extra revenue with the actual cost of running the Member program before deciding whether it's giving the business enough value.
 
+DASHBOARD
+![Dashboard Preview](DASHBOARD.png)
 Files in this repo
 
-Supermarket_Dashboard.xlsx — Excel workbook containing the Data and Dashboard tabs
-screenshot/dashboard.png — Dashboard preview
+1. Supermarket_Dashboard.xlsx — Excel workbook containing the Data and Dashboard tabs
+2. screenshot/dashboard.png — Dashboard preview
